@@ -1,0 +1,4 @@
+cifar10: "https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz" 
+cifar100: "https://www.cs.toronto.edu/~kriz/cifar-100-python.tar.gz"
+
+
